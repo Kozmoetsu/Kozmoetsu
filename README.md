@@ -125,8 +125,7 @@ My long-term goal is to become a **Computer Engineer**, specialize in **Cybersec
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:0F9BF0&height=150&section=footer)
 
 <div align="center">
-<sub>Made with 💙 by <b>Victor López</b></sub>
-</sub>GAME OVER? INSERT COIN TO CONTINUE 🪙</sub>
+<sub>Made with 💙 by <b>Victor López</b> — GAME OVER? INSERT COIN TO CONTINUE 🪙</sub>
 <br><br>
 <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663869006680/lZtcvFZxSOHBZZdS.png" width="120" alt="Sonic running"/>
 </div>
