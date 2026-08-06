@@ -26,7 +26,7 @@
 
 I'm a **Software Developer** from **Argentina** passionate about building modern, scalable, and user-focused applications.
 
-My journey is driven by curiosity, continuous learning, and the desire to transform ideas into real-world software solutions at **supersonic speed**. 🏃💨
+My journey is driven by curiosity, continuous learning, and the desire to transform ideas into real-world software solutions at **supersonic speed!**.
 
 **Currently focused on:**
 - 📱 Developing cross-platform mobile applications with **React Native**
