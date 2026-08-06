@@ -1,16 +1,53 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Kozmoetsu/Kozmoetsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Victor López
 
-Here are some ideas to get you started:
+### Software Developer • React Native • Cybersecurity Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building the future, one line of code at a time.*
+
+</div>
+
+---
+
+# 🚀 About Me
+
+> *(Coming Soon...)*
+
+---
+
+# 💻 Tech Stack
+
+> *(Coming Soon...)*
+
+---
+
+# 📊 GitHub Analytics
+
+> *(Coming Soon...)*
+
+---
+
+# 🏆 Featured Projects
+
+> *(Coming Soon...)*
+
+---
+
+# 🌱 Currently Learning
+
+> *(Coming Soon...)*
+
+---
+
+# 🎯 Goals
+
+> *(Coming Soon...)*
+
+---
+
+# 📫 Connect With Me
+
+> *(Coming Soon...)*
+
+---
