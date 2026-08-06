@@ -4,9 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFD700&center=true&vCenter=true&width=780&height=60&lines=REACT+NATIVE+DEVELOPER;TYPESCRIPT+DEVELOPER;CYBERSECURITY+ENTHUSIAST;CISCO+NETWORKING+STUDENT;PRESS+START+TO+CONTINUE+%E2%96%B6" />
 
-🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛
-
-> *Building the future, one 16-bit line of code at a time.* ⚡🦔
+> *Building the future, one 16-bit line of code at a time.*
 
 <a href="https://github.com/Kozmoetsu">
 <img src="https://img.shields.io/badge/GitHub-0F9BF0?style=for-the-badge&logo=github&logoColor=FFD700"/>
@@ -21,8 +19,6 @@
 </div>
 
 <div align="center">
-
-🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛
 
 </div>
 
@@ -53,8 +49,6 @@ My long-term goal is to become a **Computer Engineer**, specialize in **Cybersec
 
 <div align="center">
 
-🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛
-
 </div>
 
 ## 📟 STATUS WINDOW
@@ -70,8 +64,6 @@ My long-term goal is to become a **Computer Engineer**, specialize in **Cybersec
 | 🎯 **Mission** | Build software that solves real problems |
 
 <div align="center">
-
-🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛
 
 </div>
 
@@ -104,8 +96,6 @@ My long-term goal is to become a **Computer Engineer**, specialize in **Cybersec
 
 <div align="center">
 
-🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛
-
 </div>
 
 ## 📊 SCORE BOARD — GITHUB STATS
@@ -119,8 +109,6 @@ My long-term goal is to become a **Computer Engineer**, specialize in **Cybersec
 </p>
 
 <div align="center">
-
-🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛🟦⬛
 
 </div>
 
